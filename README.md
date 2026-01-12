@@ -1,3 +1,4 @@
+![App Screenshot](./screenshot.png)
 # Whisper Timestamp Generator
 
 A simple Python project to convert MP3 audio files to timestamped JSON files using OpenAI Whisper.
