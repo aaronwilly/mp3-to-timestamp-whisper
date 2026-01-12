@@ -1,0 +1,7 @@
+openai-whisper>=20231117
+# Note: aeneas is optional and only needed for text alignment feature
+# If you need aeneas, install it separately after numpy:
+# pip install numpy
+# pip install aeneas
+# aeneas>=1.7.3
+
